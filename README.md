@@ -5,7 +5,7 @@
 ## 📦 설치 방법
 
 ```bash
-git clone https://github.com/yourname/rbenv-ios-setup.git
+git clone https://github.com/trustfarm-dev/macOS-rbenv-ios-setup
 cd rbenv-ios-setup
 chmod +x install.sh
 ./install.sh
